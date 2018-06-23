@@ -1,4 +1,4 @@
-# Create Store from Redux
+### Create Store from Redux
 
 ## Objectives
 
