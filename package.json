@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "description": "Build a small React application using all that you&#39;ve learned in the course",
   "engines": {
-    "node": "6.x",
-    "npm": "3.x"
+    "node": "8.x",
+    "npm": "10.x"
   },
   "main": "src/index.js",
   "scripts": {
